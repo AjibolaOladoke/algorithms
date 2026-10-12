@@ -6,7 +6,7 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![algorithms](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![algorithms](images/preview.png)](https://github.com/Swift-Tech-Co/algorithms)
 
 ## Quick Start
 
@@ -595,48 +595,6 @@ All core data structures live in [`algorithms/data_structures/`](algorithms/data
 ## Contributing
 
 Thanks for your interest in contributing! There are many ways to get involved. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
-## Maintainers
-
-- Keon Kim
-
-## Contributors
-
-Thanks to all the contributors who helped build this repo.
-
-## License
-
-[MIT](LICENSE)
-
----
-
-## Swift Tech Co.
-
-Built and maintained by Swift Tech Co.
-
-AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
-
-**Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
-
-Home | Services | Careers | Referral Program | Influencers | About | Contact
-
-**Connect**
-
-- Website: swifttechco.com
-- LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
-- LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
-- X: [@MrOladoke](https://x.com/MrOladoke)
-- Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
-- Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
-- Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
-
-## Sources
-
-Compiled and maintained from upstream [keon/algorithms](https://github.com/keon/algorithms) under permissive open-source license.
-
----
-
-Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
