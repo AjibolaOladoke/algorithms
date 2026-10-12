@@ -1,16 +1,12 @@
-[![PyPI version](https://badge.fury.io/py/algorithms.svg)](https://www.swifttechco.com)
-[![Open Source Helpers](https://www.codetriage.com/keon/algorithms/badges/users.svg)](https://www.swifttechco.com)
-
 # algorithms
+
+## What This Is
+
+This is part of the Swift Tech Co. working stack for product and engineering. It gathers the algorithms notes, examples and fixes that keep delivery fast, and doubles as the reference map we hand to whoever picks up this thread next.
 
 ## Images
 
-[![algorithms](https://opengraph.githubassets.com/1/keon/algorithms)](https://www.swifttechco.com)
-
-
-Minimal, clean, and well-documented implementations of data structures and algorithms in Python 3.
-
-Each file is self-contained with docstrings, type hints, and complexity notes &mdash; designed to be read and learned from.
+[![algorithms](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Quick Start
 
@@ -602,11 +598,11 @@ Thanks for your interest in contributing! There are many ways to get involved. S
 
 ## Maintainers
 
-- [Keon Kim](https://www.swifttechco.com)
+- Keon Kim
 
 ## Contributors
 
-Thanks to [all the contributors](https://www.swifttechco.com) who helped build this repo.
+Thanks to all the contributors who helped build this repo.
 
 ## License
 
@@ -622,14 +618,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [keon/algorithms](https://github.com/keon/algorithms) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
